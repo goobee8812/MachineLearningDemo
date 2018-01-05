@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MachineLearningDemo</string>
+    <string name="analyse">Analyse</string>
+    <string name="photo">相册</string>
+</resources>
